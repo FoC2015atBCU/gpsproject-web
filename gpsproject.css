@@ -1,0 +1,43 @@
+body {
+	background-color: #676767
+}
+@font-face {
+font-family: JosefinSans Regular;
+src: url(https://dl.dropbox.com/s/wpxtej0lzqmbk4o/JosefinSans-Regular.ttf);
+}
+h1 {
+	font-family: JosefinSans Regular, Arial;
+	color: white;
+}
+h2 {
+	font-family: JosefinSans Regular, Arial;
+	color: white;
+}
+h3 {
+	font-family: JosefinSans Regular, Arial;
+	color: white;
+}
+h4 {
+	font-family: JosefinSans Regular, Arial;
+	color: white;
+}
+h5 {
+	font-family: JosefinSans Regular, Arial;
+	color: white;
+}
+p {
+	font-family: JosefinSans Regular, Arial;
+	color: white;
+}
+footer {
+	font-style: italic;
+}
+form {
+	font-style:italic;
+	font-weight:bold;
+}
+hr {
+	color: #B6B6B6;
+	background-color: #B6B6B6;
+	height: 5px;
+}
