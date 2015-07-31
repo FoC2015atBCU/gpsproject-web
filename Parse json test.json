@@ -1,0 +1,322 @@
+{"Locations":[
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.8,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.43623005569083, 
+            "longitude": 62.40659511443387
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.11370983650168, 
+            "longitude": 62.50731028417134
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.2,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.36654144129493, 
+            "longitude": 62.452156063646314
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.5,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.41499250180897, 
+            "longitude": 62.396143617348535
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.12308347445442, 
+            "longitude": 62.52120859698316
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.2,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.41857818063671, 
+            "longitude": 62.52808872108251
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.18351101057328, 
+            "longitude": 62.53577995714227
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.26046679265872, 
+            "longitude": 62.39723286076319
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.2,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.18646441580663, 
+            "longitude": 62.41035618031719
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.36557517573097, 
+            "longitude": 62.41701982812652
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.5,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.10244702625215, 
+            "longitude": 62.34884514500496
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.7,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.21967794659942, 
+            "longitude": 62.47697948227644
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.41184551077097, 
+            "longitude": 62.527824925853864
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.3,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.343189176388, 
+            "longitude": 62.35807313719815
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.9,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.13508513936827, 
+            "longitude": 62.36872756607606
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.3,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.09171321087086, 
+            "longitude": 62.37262501036375
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.7,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.20930375478189, 
+            "longitude": 62.415429052221576
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.3134762555624, 
+            "longitude": 62.5294459065819
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.45738924686623, 
+            "longitude": 62.41918358898814
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.7,
+        "createdAt": "2015-7-31T10:0:8.0Z",
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 94.38746778721391, 
+            "longitude": 62.40346409292671
+        },
+        "objectId": "ajhsakjd",
+        "updatedAt": "2015-7-31T10:0:8.0Z"
+     }
+]}
