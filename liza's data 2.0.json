@@ -1,0 +1,142 @@
+{"Locations":[
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.1,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.53458772393545, 
+            "longitude": -1.9657096629197626
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.0,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.43392279698091, 
+            "longitude": -1.7970680724877475
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.6,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.57425069569177, 
+            "longitude": -1.909256496839752
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.9,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.479970514525036, 
+            "longitude": -1.8512388879343478
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.4,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.38690547648342, 
+            "longitude": -1.951524366673563
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.3,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.52297410834051, 
+            "longitude": -1.9789656763094976
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.9,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.45504356122828, 
+            "longitude": -1.9460304323017312
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.6,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.40449890364806, 
+            "longitude": -1.7262581694533994
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.3,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.3918819909427, 
+            "longitude": -1.8050365724665147
+        }
+
+     },
+     {
+        "ACL": { 
+              "*": { 
+                   "read": true 
+            }
+        },
+        "Magnitude": 1.1,
+        "location": { 
+            "__type": "GeoPoint",
+            "latitude": 52.39288799380478, 
+            "longitude": -2.0912575216549776
+        }
+
+     }
+]}
