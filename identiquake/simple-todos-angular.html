@@ -1,0 +1,51 @@
+<head>
+  <title>identiquake</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+</head>
+
+<body>
+
+  <div class="row">
+    <div class="ten columns"> <h1><b>identiQuake</b> {{locationCount}}</h1></div>
+    <div class="two columns" style="padding-top: 15px;">{{> sidebar}}</div>
+  </div>
+
+  <div class="decorativetopbar">
+  </div>
+
+  {{> map}}
+</body>
+
+<template name="map">
+  <div class=headerDataCount></div>
+  <div class="map-container">
+    {{#unless geolocationError}}
+      {{> googleMap name="map" options=mapOptions}}
+    {{else}}
+      Geolocation failed: {{geolocationError}}
+    {{/unless}}
+  </div>
+
+  <h2>{{getLocations}}</h2>
+</template>
+
+<template name="sidebar">
+  <div class = "sidebar-button">
+    <button style="text-align: right;">About</button>
+  </div>
+
+    <div class="md-modal md-effect-1" id="modal-1">
+    	<div class="md-content">
+    		<h3>About</h3>
+    		<div>
+    			<p>The web interface for identiQuake, coded at #YRSFoC2015 by Angus, Carolina, Connor, Indraj, Liza and Natalie  </p>
+    			<ul>
+    				<li><strong>Green:</strong> </li>
+    				<li><strong>Orange:</strong> </li>
+    				<li><strong>Red:</strong> </li>
+    			</ul>
+    			<button class="md-close">Close</button>
+    		</div>
+    	</div>
+    </div>
+</template>

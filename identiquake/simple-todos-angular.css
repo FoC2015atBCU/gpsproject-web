@@ -1,0 +1,114 @@
+/* CSS declarations go here */
+.map-container {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  position: absolute;
+  z-index: 200;
+}
+
+.decorativetopbar {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 4px;
+  background-color: #1abc9c;
+}
+
+.map-overlay {
+    width  : 50px;
+    height : 80px;
+    background: #e74c3c;
+    position: fixed;
+    opacity: 0.8;/*add this*/
+    padding-left: 400px;
+    padding-right: 10px;
+    top: 85%;
+    left: 75%;
+    z-index: 99;
+}
+
+.sidebar-button {
+
+}
+
+body {
+  margin: 0;
+	background-color: #fff;
+}
+@font-face {
+font-family: JosefinSans Regular;
+src: url(https://dl.dropbox.com/s/wpxtej0lzqmbk4o/JosefinSans-Regular.ttf);
+}
+h1 {
+  padding-top: 8px;
+  margin: 15px;
+	font-family: JosefinSans Regular, Arial;
+	color: #555555;
+}
+h2 {
+	font-family: JosefinSans Regular, Arial;
+	color: #2c3e50
+}
+
+h4 {
+	font-family: JosefinSans Regular, Arial;
+	color: #2c3e50
+}
+h5 {
+	font-family: JosefinSans Regular, Arial;
+	color: #2c3e50
+}
+footer {
+	font-style: italic;
+}
+form {
+	font-style:italic;
+	font-weight:bold;
+}
+hr {
+	color: #B6B6B6;
+	background-color: #B6B6B6;
+	height: 5px;
+}
+
+/* modal view */
+.md-modal {
+  padding: 20px;
+  border-radius: 10px;
+  opacity: 0.9;
+  background-color: #1abc9c;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 50%;
+	max-width: 630px;
+	min-width: 320px;
+	height: auto;
+	z-index: 2000;
+	display: none;
+	backface-visibility: hidden;
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.md-overlay {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	display: none;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	opacity: 0;
+	background: rgba(143,27,15,0.8);
+	transition: all 0.3s;
+}
+
+.md-show ~ .md-overlay {
+	opacity: 1;
+	visibility: visible;
+}
+
+.md-close {
+
+}

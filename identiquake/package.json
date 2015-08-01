@@ -1,0 +1,16 @@
+{
+  "node-parse-api": "*",
+  "name": "simple-todos-angular",
+  "version": "1.0.0",
+  "description": "An app built at YRSFoC2015 to alert people when an earthquake is happening. Used in conjunction with an Android app",
+  "main": "simple-todos-angular.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liza Amini",
+  "license": "ISC"
+}
